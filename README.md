@@ -5,7 +5,7 @@
 - 🤖 Um amante da área de TI desde muito cedo;
 - ✈️ Trabalhando em outra área, totalmente diferente, mas sigo estudando pra seguir o meu sonho de ser programador.
 
-##
+   ##
 
 <div align="center">
   <a href="https://github.com/carlos-eduardo-ip">
