@@ -1,7 +1,7 @@
 ## Prazer, eu sou o Carlos Eduardo 👋
 
 - 🖥️ Estudante de Análise e Desenvolvimento de Sistemas no CESMAC;
-- 🐍 Atualmente estudando Java e MySql;
+- 🐍 Atualmente estudando Java e SpringBoot JPA;
 - ✈️ Trabalhando em outra área, totalmente diferente, mas sigo estudando pra seguir o meu sonho de ser programador.
 
    ###
