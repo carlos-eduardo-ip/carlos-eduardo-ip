@@ -1,8 +1,8 @@
 ## Prazer, eu sou o Carlos Eduardo 👋
 
 - 🖥️ Estudante de Análise e Desenvolvimento de Sistemas no CESMAC;
-- 🐍 Atualmente estudando Java e SpringBoot JPA;
-- ✈️ Trabalhando em outra área, totalmente diferente, mas sigo estudando pra seguir o meu sonho de ser programador.
+- 🐍 Atualmente focado em Python, Django, HTML e CSS para criação de um projeto;
+- ✈️ Trabalhando como Analista de Dados e contribuindo na manuntenção, criação e automações dos códigos em python.
 
    ###
 
