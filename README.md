@@ -1,6 +1,6 @@
 ## Prazer, eu sou o Carlos Eduardo 👋
 
-- 🖥️ Estudante de Análise e Desenvolvimento de Sistemas no CESMAC;
+- 🖥️ Formado em Análise e Desenvolvimento de Sistemas no CESMAC;
 - 🐍 Atualmente focado em Python, Django, HTML e CSS para criação de um projeto;
 - ✈️ Trabalhando como Analista de Dados e contribuindo na manuntenção, criação e automações dos códigos em python.
 
